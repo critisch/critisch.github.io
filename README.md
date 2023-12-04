@@ -1,7 +1,9 @@
+<head>
 <style>
   body {background-color: #161617;}
   p {color: red;}
 </style>
+</head>
   
 
 ## Hi, I'm Eren 👋
