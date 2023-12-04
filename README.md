@@ -1,5 +1,8 @@
-<body style="background-color:#161617; color=white;">
-</body>
+<style>
+  body {background-color: #161617;}
+  p {color: red;}
+</style>
+  
 
 ## Hi, I'm Eren 👋
 - I'm a learning python discord bot programmer & security engineer.
