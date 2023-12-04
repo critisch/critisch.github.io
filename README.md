@@ -8,4 +8,4 @@
 ### GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=askeren&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GIF](https://media.tenor.com/4wGm2z9q1xsAAAAd/yoriichi-tsugikuni-yoriichi.gif)
+![GIF](https://i.ibb.co/VpVmv49/ezgif-3-8f2ec16fc1.gif)
