@@ -1,3 +1,6 @@
+<body style="background-color:#FF0000;">
+</body>
+
 ## Hi, I'm Eren 👋
 - I'm a learning python discord bot programmer & security engineer.
 - I'm currently working on [Logic-Bot](https://logic-sigma.vercel.app).
