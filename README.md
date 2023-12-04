@@ -1,10 +1,5 @@
-<html>
-<head>
-<style>
-  body {background-color: #161617;}
-  p {color: red;}
-</style>
-</head>
+<body style="background-color:#161617;" p="color: #FFFFFF;">
+</body>
   
 
 ## Hi, I'm Eren 👋
