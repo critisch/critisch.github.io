@@ -1,4 +1,4 @@
-<body style="background-color:#161617;">
+<body style="background-color:#161617; color=white;">
 </body>
 
 ## Hi, I'm Eren 👋
