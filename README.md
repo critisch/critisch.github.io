@@ -1,4 +1,4 @@
-<body style="background-color:#161617;" p="color: #FFFFFF;">
+<body style="background-color:#161617; color: #FFFFFF;">
 </body>
   
 
@@ -13,4 +13,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=askeren&theme=dracula)](https://github.com/askeren)
 
 ![GIF](https://i.ibb.co/VpVmv49/ezgif-3-8f2ec16fc1.gif)
-</html>
