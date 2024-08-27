@@ -2,7 +2,7 @@
 </body>
   
 
-## Hi, I'm Qritich 👋
+## Hi, I'm Critisch 👋
 - I'm a learning game artist and programmer.
 - My goal is to become a game designer.
 
