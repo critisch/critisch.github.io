@@ -3,13 +3,12 @@
   
 
 ## Hi, I'm Critisch 👋
-- I'm a learning game artist and programmer.
-- My goal is to become a game designer.
+- I'm an aspiring Information Security Specialist
 
 ### Social
-[![Github](https://img.shields.io/badge/PROFILE-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23242322)](https://github.com/askeren)
+[![Github](https://img.shields.io/badge/PROFILE-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23242322)](https://github.com/critisch)
 
 ### GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=askeren&theme=dracula)](https://github.com/askeren)
+[![](https://github-readme-stats.vercel.app/api?username=critisch&theme=dracula)](https://github.com/critisch)
 
 ![GIF](https://i.ibb.co/VpVmv49/ezgif-3-8f2ec16fc1.gif)
